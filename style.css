@@ -1,0 +1,46 @@
+.menu{
+    width: 20%;
+    height: 100%;
+    float: left;
+}
+
+.inicio{
+    width: 80%;
+    height: 100%;
+    float: right;
+}
+.aqua{
+    margin: auto;
+    width: 100%;
+    border: 25% aqua;
+    background: aqua;
+}
+.yellow{
+    margin: auto;
+    width: 100;
+    border: 25% yellow;
+    background: yellow;
+}
+.orange{
+    margin: auto;
+    width: 100%;
+    border: 25% orange;
+    background: orange;
+}
+.red{
+    margin: auto;
+    width: 100%;
+    border: 25% red;
+    background: red;
+}
+body{
+    background-color: black;
+}
+p{
+    color: white;
+    font-family: sans-serif;
+}
+h1{
+    color: white;
+    font-family: sans-serif;
+}
